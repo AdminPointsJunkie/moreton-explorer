@@ -23,7 +23,7 @@ Open http://127.0.0.1:8765/dist/ in a browser. Internet access is required for b
 
 ## Files
 
-`dist/` is the deployable static site. `dist/data/sources.json` records GIS sources, extraction dates and coverage. `.openai/hosting.json` identifies the existing Sites deployment.
+`dist/` is the deployable static site. `dist/data/sources.json` records GIS sources, extraction dates and coverage. GitHub Actions publishes `dist/` to GitHub Pages on each push to `main`. The custom domain is `moretonexplorer.com.au`; configure it in repository Settings → Pages. `.openai/hosting.json` records the previous hosting service and is not used by GitHub Pages.
 
 ## Data limitations and attribution
 
