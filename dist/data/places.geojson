@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 0,
+        "name": "Ben-Ewa",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Sheltered west-coast campground. Check the official campground plan for facilities and individual sites.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping/ben-ewa-camping-area",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Campground",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.444118,
+          -27.092936
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Blue Lagoon campground",
+        "category": "Camping",
+        "lat": -27.092936,
+        "lng": 153.444118,
+        "description": "East-coast camping near the freshwater lake. Plan beach access around conditions.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Source-backed reference point; not a surveyed campsite boundary. Coordinates checked 24 October 2026.",
+        "subcategory": "Campground",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "coordinateSource": "https://www.exploroz.com/places/206242/qld+blue-lagoon-camping-area",
+        "mapped": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 2,
+        "name": "Comboyuro Point",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "North-west campground near Bulwer. Consult the site plan before booking.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Campground",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 3,
+        "name": "North Point",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Northern campground for exploring the headland. Check tent and trailer arrangements when booking.",
+        "source": "https://www.mulgumpincamping.net.au/camp-grounds/north-point/",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Campground",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space.",
+          "The booking provider lists 21 sites, including four suitable for camper trailers. Tent sites require a short walk from parking; vehicles cannot park beside each tent.",
+          "Facilities listed: water requiring treatment, hybrid toilets and cold showers. Fires and generators are prohibited."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 4,
+        "name": "The Wrecks campground",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Camping near the barge landing and Tangalooma Wrecks. Check access and carry-in arrangements.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Campground",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 5,
+        "name": "North-west camping zone",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Beach camping zone. Only designated sites marked by totems may be used; the zone is not an individual campsite.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Broad camping zone: no point marker or verified zone boundary is provided.",
+        "subcategory": "Beach camping zone",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 6,
+        "name": "North-east camping zone",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Ocean-side camping zone. Select a designated site and check the conditions report.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Broad camping zone: no point marker or verified zone boundary is provided.",
+        "subcategory": "Beach camping zone",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 7,
+        "name": "South-west camping zone",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Western beach camping zone. Zone boundaries are not mapped here.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Broad camping zone: no point marker or verified zone boundary is provided.",
+        "subcategory": "Beach camping zone",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 8,
+        "name": "South-east camping zone",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Eastern beach camping zone. Confirm designated sites and access before travelling.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Broad camping zone: no point marker or verified zone boundary is provided.",
+        "subcategory": "Beach camping zone",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 9,
+        "name": "Yellow Patch camping zone",
+        "category": "Camping",
+        "lat": null,
+        "lng": null,
+        "description": "Northern beach camping zone. Use official maps to identify designated sites.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/camping",
+        "accuracy": "Broad camping zone: no point marker or verified zone boundary is provided.",
+        "subcategory": "Beach camping zone",
+        "details": [
+          "Individual site dimensions: no verified length \u00d7 width table is available in this guide. A campground plan is not a measured campsite boundary. Confirm fit with the booking provider, including your tent, awning, ropes and trailer turning space."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36826,
+          -27.16304
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Tangalooma Wrecks",
+        "category": "Snorkelling",
+        "lat": -27.16304,
+        "lng": 153.36826,
+        "description": "Wreck snorkelling site with a documented strong-current hazard between the beach and the ships. Live current strength is unknown.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "OpenStreetMap reference point via Mapcarta; not an entry point or current hazard boundary.",
+        "subcategory": "Nature & coast",
+        "mapped": true,
+        "coordinateSource": "https://mapcarta.com/N4406047102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 11,
+        "name": "Flinders Reef",
+        "category": "Snorkelling",
+        "lat": null,
+        "lng": null,
+        "description": "Offshore snorkelling and diving destination requiring boat access and careful marine planning.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Nature & coast",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.465955,
+          -27.031837
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Cape Moreton Lighthouse",
+        "category": "Heritage & WWII",
+        "lat": -27.031837,
+        "lng": 153.465955,
+        "description": "The 1857 sandstone lighthouse is a landmark above the north-eastern headland.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/journeys/cape-moreton-track",
+        "accuracy": "Brisbane City Council heritage reference point; not an entrance or property boundary.",
+        "subcategory": "Lighthouse",
+        "mapped": true,
+        "coordinateSource": "https://heritage.brisbane.qld.gov.au/heritage-places/1974",
+        "details": [
+          "Queensland\u2019s only stone lighthouse stands 23m tall. The surrounding headland provides coastal views and opportunities to watch marine wildlife.",
+          "Visit from the Cape Moreton car park. The lighthouse interior and its grounds are not open to visitors; use the public walking route and viewing areas."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 13,
+        "name": "Mount Tempest",
+        "category": "Landmarks",
+        "lat": null,
+        "lng": null,
+        "description": "A steep sand-dune lookout walk. Carry water and allow time for the climb.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Nature & coast",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.43788,
+          -27.08828
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Blue Lagoon",
+        "category": "Landmarks",
+        "lat": -27.08828,
+        "lng": 153.43788,
+        "description": "Freshwater lake reached by a short walk. Freshwater fishing and bait collecting are prohibited.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Source-backed reference point; not a surveyed campsite boundary. Coordinates checked 24 October 2026.",
+        "subcategory": "Nature & coast",
+        "coordinateSource": "https://www.openstreetmap.org/way/36927371",
+        "mapped": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 15,
+        "name": "The Desert",
+        "category": "Landmarks",
+        "lat": null,
+        "lng": null,
+        "description": "Sand dunes and a walking circuit. Prepare for heat, soft sand and an exposed landscape.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Nature & coast",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 16,
+        "name": "Honeyeater Lake",
+        "category": "Landmarks",
+        "lat": null,
+        "lng": null,
+        "description": "A short walk to a lake-viewing platform. Respect sensitive freshwater habitats.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Nature & coast",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 17,
+        "name": "Middle Road",
+        "category": "4WD",
+        "lat": null,
+        "lng": null,
+        "description": "An inland sand-road connection. Enable the official roads layer for geometry; this pin is only a reference point.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/visiting-safely",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Sand road",
+        "details": [
+          "High-clearance 4WD access on sand. Narrow inland roads can become rough in dry conditions; do not treat the mapped line as a current trafficability assessment.",
+          "Arrange a vehicle access permit before arrival. Travel around tides and check the conditions report. Use designated public routes and obey signs.",
+          "Carry recovery equipment and a way to reinflate tyres. Choose tyre pressures for your vehicle, load and tyre manufacturer guidance; reduced pressure requires reduced speed."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 18,
+        "name": "Bulwer\u2013Blue Lagoon Road",
+        "category": "4WD",
+        "lat": null,
+        "lng": null,
+        "description": "Cross-island sand-road access. Check warnings, vehicle suitability and current conditions.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/visiting-safely",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Sand road",
+        "details": [
+          "High-clearance 4WD access on sand. Narrow inland roads can become rough in dry conditions; do not treat the mapped line as a current trafficability assessment.",
+          "Arrange a vehicle access permit before arrival. Travel around tides and check the conditions report. Use designated public routes and obey signs.",
+          "Carry recovery equipment and a way to reinflate tyres. Choose tyre pressures for your vehicle, load and tyre manufacturer guidance; reduced pressure requires reduced speed."
+        ],
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 19,
+        "name": "Mirapool",
+        "category": "Fishing",
+        "lat": null,
+        "lng": null,
+        "description": "Protected waters: no fishing or collecting. Check both marine zoning and designated-area rules.",
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "subcategory": "Nature & coast",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 20,
+        "name": "Castaways Cafe & Store",
+        "category": "Shops & services",
+        "subcategory": "Food, supplies & recovery gear",
+        "lat": null,
+        "lng": null,
+        "description": "Cafe and licensed store in Bulwer serving visitors to the north-west of the island.",
+        "details": [
+          "The operator lists groceries, ice, fuel, gas, bait, fishing tackle and camping/4WD recovery supplies. Confirm stock, fuel arrangements and opening hours before relying on a resupply."
+        ],
+        "source": "https://castawaysmoretonisland.com.au/cafestore/",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 21,
+        "name": "Gutter Bar & Kooringal General Store",
+        "category": "Shops & services",
+        "subcategory": "Food & general store",
+        "lat": null,
+        "lng": null,
+        "description": "Restaurant, bar and general store at Kooringal on the southern end of Moreton Island.",
+        "details": [
+          "Plan southern beach access around tide and track conditions. Contact the operator for opening hours and available supplies."
+        ],
+        "source": "https://www.thegutterbar.com.au/kooringal-general-store",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 22,
+        "name": "Bulwer",
+        "category": "Settlements",
+        "subcategory": "North-west village",
+        "lat": null,
+        "lng": null,
+        "description": "A small island settlement on the north-west coast, with accommodation and a cafe/store.",
+        "details": [
+          "Useful as a planning reference for northern camping trips. Village streets, private properties and beach access are not interchangeable; follow signed public access."
+        ],
+        "source": "https://www.moretonislandwild.com.au/bulwer",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 23,
+        "name": "Kooringal",
+        "category": "Settlements",
+        "subcategory": "Southern village",
+        "lat": null,
+        "lng": null,
+        "description": "Southern island settlement and location of the Gutter Bar and general store.",
+        "details": [
+          "Allow for tides when planning the return journey. A village marker is not a vehicle route or a ferry timetable."
+        ],
+        "source": "https://www.thegutterbar.com.au/",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 24,
+        "name": "MICAT beach landing",
+        "category": "4WD",
+        "subcategory": "Ferry & arrival",
+        "lat": null,
+        "lng": null,
+        "description": "Vehicle-ferry arrival area on the western beach near the wrecks and Middle Road.",
+        "details": [
+          "The operator identifies this as the MICAT landing area. Book vehicle transport and permits separately as required; arrival and departure times must be checked against your booking."
+        ],
+        "source": "https://www.moretonislandadventures.com.au/frequently-asked-questions/",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 25,
+        "name": "Five Hills lookout",
+        "category": "Landmarks",
+        "subcategory": "Walking & viewpoint",
+        "lat": null,
+        "lng": null,
+        "description": "A lookout walk reached from North Point Road.",
+        "details": [
+          "The park describes a 1 km return walk with views over the northern island landscape. Allow around 30 minutes and choose cooler conditions."
+        ],
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/things-to-do",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 26,
+        "name": "Rous Battery \u2014 WWII gun emplacements",
+        "category": "Heritage & WWII",
+        "subcategory": "Battery & bunkers",
+        "lat": null,
+        "lng": null,
+        "description": "Concrete gun emplacements and defence-building ruins remain on dunes above the eastern beach.",
+        "details": [
+          "The wartime road connected the coastal batteries and carried troops, guns and supplies. Side tracks lead to the surviving fort structures and views over the ocean.",
+          "Eastern-beach approach: QPWS describes access 11.3km south of Middle Road, then approximately 400m on foot to the battery and 700m to the lookout. These walking distances are one-way. There is no designated parking area or drinking water.",
+          "The official page gives conflicting totals for the longer cross-island walk. Check its current route description before attempting that route.",
+          "These are protected heritage ruins. Supervise children, leave relics in place and follow local access signs. Individual bunker and gun-platform positions have not been verified."
+        ],
+        "source": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island/journeys/rous-battery-track",
+        "accuracy": "Map pin withheld: location has not been verified. Read the place information and official map before travel.",
+        "mapped": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.365454,
+          -27.125447
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Fort Cowan Cowan \u2014 WWII coastal battery",
+        "category": "Heritage & WWII",
+        "subcategory": "Gun emplacements & magazines",
+        "lat": -27.125447,
+        "lng": 153.365454,
+        "mapped": true,
+        "coordinateSource": "https://heritage.brisbane.qld.gov.au/heritage-places/2035",
+        "accuracy": "Council heritage-site reference point, not an individual bunker or visitor entrance.",
+        "description": "Remains of the coastal fort that helped defend the approaches to Brisbane during WWII.",
+        "details": [
+          "Two 6-inch coastal guns and two searchlights were installed in 1938. Reinforced-concrete gun platforms had ammunition magazines behind them. The fort formed part of the island\u2019s examination battery and wartime signalling defences.",
+          "The council heritage listing identifies 30 Jessie Wadsworth Street. The broader military complex included other sites; this pin does not identify every structure.",
+          "Look for surviving gun emplacements and bunker structures rather than intact operational turrets. Follow signs and respect property boundaries; a heritage listing does not grant entry."
+        ],
+        "source": "https://www.anzacsquare.qld.gov.au/historic-places/queensland-wwii-history-map/fort-cowan-cowan"
+      }
+    }
+  ]
+}

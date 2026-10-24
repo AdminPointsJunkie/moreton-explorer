@@ -1,0 +1,164 @@
+[
+  {
+    "id": "roads",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksTerrestrialProtectedAreas/MapServer/2",
+    "features": 500,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Intersecting features retain their full geometry; snapshot, not live conditions."
+  },
+  {
+    "id": "walks",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksTerrestrialProtectedAreas/MapServer/5",
+    "features": 118,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Intersecting features retain their full geometry; snapshot, not live conditions."
+  },
+  {
+    "id": "parks",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksTerrestrialProtectedAreas/MapServer/10",
+    "features": 2,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Intersecting features retain their full geometry; snapshot, not live conditions."
+  },
+  {
+    "id": "zones",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/2",
+    "features": 62,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153,
+      -27.65,
+      153.65,
+      -26.75
+    ],
+    "note": "Expanded northern/central bay and offshore fishing coverage; full intersecting geometries, snapshot only."
+  },
+  {
+    "id": "designated",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/3",
+    "features": 64,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153,
+      -27.65,
+      153.65,
+      -26.75
+    ],
+    "note": "Expanded northern/central bay and offshore fishing coverage; full intersecting geometries, snapshot only."
+  },
+  {
+    "id": "reefs",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/4",
+    "features": 7,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153,
+      -27.65,
+      153.65,
+      -26.75
+    ],
+    "note": "Expanded northern/central bay and offshore fishing coverage; full intersecting geometries, snapshot only."
+  },
+  {
+    "id": "moorings",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/16",
+    "features": 11,
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Intersecting features retain their full geometry; snapshot, not live conditions."
+  },
+  {
+    "id": "roadwarnings",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksTerrestrialProtectedAreas/MapServer/1",
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Spatial snapshot, not live conditions.",
+    "features": 382
+  },
+  {
+    "id": "trackwarnings",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksTerrestrialProtectedAreas/MapServer/4",
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Spatial snapshot, not live conditions.",
+    "features": 113
+  },
+  {
+    "id": "habitat",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/35",
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Spatial snapshot, not live conditions.",
+    "features": 30
+  },
+  {
+    "id": "fishhabitat",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/7",
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Spatial snapshot, not live conditions.",
+    "features": 2
+  },
+  {
+    "id": "reefmarkers",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Environment/ParksMarineProtectedAreas/MapServer/25",
+    "retrieved": "2026-10-24",
+    "bounds": [
+      153.3,
+      -27.4,
+      153.52,
+      -26.94
+    ],
+    "note": "Spatial snapshot, not live conditions.",
+    "features": 0
+  },
+  {
+    "id": "lidar",
+    "service": "https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Elevation/ElevationProjectExtents/MapServer/200",
+    "features": 2,
+    "retrieved": "2026-10-24"
+  }
+]
